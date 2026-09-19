@@ -61,4 +61,4 @@ Python · TypeScript · React · Next.js · NLP · Machine Learning · LLM APIs
 
 ## Connect
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Research](YOUR_RESEARCH_URL)
+[LinkedIn](https://www.linkedin.com/in/kabirgupta22/)
