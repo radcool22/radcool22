@@ -14,6 +14,16 @@ I build AI systems that help people make sense of complex information — and ex
 
 ## Featured Projects
 
+### 🏥 MediTrack
+
+An AI-powered healthcare platform designed to help people understand medical reports and access health information in English and Indian languages.
+
+**Exploring:** How can AI make complex medical information more understandable and accessible?
+
+[Project](https://meditrack.in)
+
+---
+
 ### 🔍 ThisVsThat
 
 An evidence-grounded comparison engine built on top of Stanford OVAL's STORM / Co-STORM.
@@ -26,16 +36,6 @@ An evidence-grounded comparison engine built on top of Stanford OVAL's STORM / C
 → Structured verdict synthesis
 
 [Live Demo](https://this-vs-that.fly.dev) · [Code](https://github.com/radcool22/this-vs-that)
-
----
-
-### 🏥 MediTrack
-
-An AI-powered healthcare platform designed to help people understand medical reports and access health information in English and Indian languages.
-
-**Exploring:** How can AI make complex medical information more understandable and accessible?
-
-[Project](https://meditrack.in)
 
 ---
 
